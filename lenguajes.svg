@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Lenguajes más usados: Python 40%, JavaScript 25%, HTML 20%, CSS 15%">
+  <rect x="0.5" y="0.5" width="639" height="299" rx="12" fill="#0d1117" stroke="#30363d" />
+  <text x="32" y="48" fill="#A7C957" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">Lenguajes más usados</text>
+
+  <text x="32" y="101" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">Python</text>
+  <rect x="180" y="89" width="360" height="12" rx="6" fill="#21262d" />
+  <rect x="180" y="89" width="144" height="12" rx="6" fill="#A7C957" />
+  <text x="608" y="101" fill="#e6edf3" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">40%</text>
+
+  <text x="32" y="146" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">JavaScript</text>
+  <rect x="180" y="134" width="360" height="12" rx="6" fill="#21262d" />
+  <rect x="180" y="134" width="90" height="12" rx="6" fill="#A7C957" />
+  <text x="608" y="146" fill="#e6edf3" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">25%</text>
+
+  <text x="32" y="191" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">HTML</text>
+  <rect x="180" y="179" width="360" height="12" rx="6" fill="#21262d" />
+  <rect x="180" y="179" width="72" height="12" rx="6" fill="#A7C957" />
+  <text x="608" y="191" fill="#e6edf3" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">20%</text>
+
+  <text x="32" y="236" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">CSS</text>
+  <rect x="180" y="224" width="360" height="12" rx="6" fill="#21262d" />
+  <rect x="180" y="224" width="54" height="12" rx="6" fill="#A7C957" />
+  <text x="608" y="236" fill="#e6edf3" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">15%</text>
+</svg>
