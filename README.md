@@ -1,12 +1,12 @@
 <!--
   CÓMO USAR ESTE ARCHIVO
-  1. Sube hello.gif, sprite.png y lenguajes.svg a la raíz de este repositorio.
+  1. Sube hola.gif, mascota.png y lenguajes.svg a la raíz de este repositorio.
   2. Cambia TU-CORREO, TU-PERFIL y los textos entre corchetes.
-  3. Sube .github/workflows/snake.yml para activar la serpiente.
+  3. Sube .github/workflows/serpiente.yml para activar la serpiente.
 -->
 
 <p align="center">
-  <img src="./sprite.png" width="190" alt="Mascota" />
+  <img src="./mascota.png" width="190" alt="Mascota" />
 </p>
 
 <h1 align="center">Hola, soy Javiera ✨</h1>
@@ -27,7 +27,7 @@
       </pre>
     </td>
     <td width="42%" align="center">
-      <img src="./hello.gif" width="100%" alt="Hola!" />
+      <img src="./hola.gif" width="100%" alt="Hola!" />
     </td>
   </tr>
 </table>
