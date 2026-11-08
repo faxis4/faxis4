@@ -47,10 +47,10 @@
 <!-- La serpiente aparece cuando la GitHub Action se ejecuta por primera vez. -->
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" align="center" valign="top">
       <img src="./lenguajes.svg" width="100%" alt="Lenguajes más usados: Python 40%, JavaScript 25%, HTML 20%, CSS 15%" />
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" align="center" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faxis4/faxis4/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faxis4/faxis4/output/github-contribution-grid-snake.svg" />
